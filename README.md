@@ -1,4 +1,4 @@
 # Piyush-xyz
 This is my first git repository.
 <br>
-Author-Piyush Garg
+Author-Piyush (Btech 1st year)
